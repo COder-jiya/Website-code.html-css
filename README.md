@@ -104,9 +104,8 @@
     <div class ="navbar">
         <a href="#home">Home</a>
         <a href="#about">About </a>
-        <a href="#place">Place</a>
         <a href="#contact">Contact </a>
-        <a href="#category">Category</a>
+       
 
     <form action="https://www.google.com/search" method="get">
     <input type="text" name="q" class="search-box" placeholder="Search...">
