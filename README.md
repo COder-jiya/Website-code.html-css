@@ -96,7 +96,22 @@
     .content{
         background-color: black;
         color: white;
-    }
+        padding: 40px;
+        margin: 20px;
+       
+        } 
+       
+    body{
+         animation-name: aNnimation;
+        animation-duration: 8s;
+        animation-iteration-count: infinite;
+
+        }
+
+         @keyframes aNnimation {
+         from {background-color:lightyellow;}
+         to {background-color:lightcyan;}
+}
   
     </style>
 </head>
